@@ -1,1 +1,0 @@
-web: gunicorn innovativenet.wsgi --log-file-
